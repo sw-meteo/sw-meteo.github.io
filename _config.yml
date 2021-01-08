@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "SW Blog"
 title_separator          : "-"
 name                     : &name "施文"
-description              : &description "personal description"
+description              : &description "大气科学在读直博生"
 url                      : https://sw-meteo.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sw-meteo/sw-meteo.github.io"
@@ -82,17 +82,17 @@ analytics:
 author:
   name             : "施文"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "清华大学地学系直博一年级"
   location         : "北京"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : shiwen16 at tsinghua dot org dot cn
   researchgate     :  https://www.researchgate.net/profile/Wen-Shi-4
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         :
+  dribbble         : 
   flickr           :
   facebook         :
   foursquare       :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
